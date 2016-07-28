@@ -1,0 +1,11 @@
+{
+  "name": "hypergreen",
+  "version": "1.0.0",
+  "description": "Hyper term green style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andr3wHur5t",
+  "license": "MIT"
+}
